@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaPOOFormsExer9", "ListaPOOFormsExer9\ListaPOOFormsExer9.csproj", "{1A952A9E-441D-47DD-914A-8A595C5CAC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A952A9E-441D-47DD-914A-8A595C5CAC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A952A9E-441D-47DD-914A-8A595C5CAC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A952A9E-441D-47DD-914A-8A595C5CAC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A952A9E-441D-47DD-914A-8A595C5CAC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB05F738-5AE9-4DDF-AF7C-3854AD1BDEEC}
+	EndGlobalSection
+EndGlobal
