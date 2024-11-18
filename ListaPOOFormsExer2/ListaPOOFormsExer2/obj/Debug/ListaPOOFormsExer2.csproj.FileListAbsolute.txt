@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\bin\Debug\ListaPOOFormsExer2.exe.config
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\bin\Debug\ListaPOOFormsExer2.exe
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\bin\Debug\ListaPOOFormsExer2.pdb
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.Form1.resources
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.Properties.Resources.resources
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.exe
+C:\Users\pedro\source\repos\ListaPOOFormsExer2\ListaPOOFormsExer2\obj\Debug\ListaPOOFormsExer2.pdb

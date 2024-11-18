@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\bin\Debug\ListaPOOExer2.exe.config
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\bin\Debug\ListaPOOExer2.exe
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\bin\Debug\ListaPOOExer2.pdb
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.Form1.resources
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.Properties.Resources.resources
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.exe
+C:\Users\pedro\source\repos\ListaPOOExer2\ListaPOOExer2\obj\Debug\ListaPOOExer2.pdb
